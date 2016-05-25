@@ -1,0 +1,14 @@
+body{
+  font-family:sans-serif;
+  text-align: center;
+}
+h1{
+  color: #cc0099;
+  font-size: 65px;
+  font-family: sans-serif;
+}
+p {
+  color: blue;
+  font-size: 18px;
+  font-family:cursive;
+}
